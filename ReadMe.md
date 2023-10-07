@@ -3,6 +3,8 @@ Olá! Sou João. Um estudante criativo e amante da tecnologia, procuro estar sem
 
 
 ## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/JoãoVictorFerrariRufino) 
+
 
 
 # 💻 Tech Stack:
